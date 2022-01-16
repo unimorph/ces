@@ -34,6 +34,6 @@ If you use this data in your research, please cite the following original resour
 The Wiktionary data (ces file) is licensed under Creative Commons BY-SA license:
 https://creativecommons.org/licenses/by-sa/3.0/
 
-The MorfFlex data (ces.xz file) is lincensed under Creative Commons BY-NC-SA license:
+The MorfFlex data (ces.xz file) is licensed under Creative Commons BY-NC-SA license:
 http://creativecommons.org/licenses/by-nc-sa/4.0/
 
